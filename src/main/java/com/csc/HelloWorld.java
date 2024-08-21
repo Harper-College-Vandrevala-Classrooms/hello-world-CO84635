@@ -1,3 +1,4 @@
+package com.csc;
 
 class HelloWorld {
     public static void main(String[] args){
